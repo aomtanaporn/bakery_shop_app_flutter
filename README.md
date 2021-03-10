@@ -22,8 +22,6 @@ Main features:
 * Purchased product will be added to the database 
 
 Demo Video:
-![Screenshot_1615305531](https://user-images.githubusercontent.com/80273723/110499730-1c1a6200-812b-11eb-806a-6be58b13e138.png)
-
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80273723/110499730-1c1a6200-812b-11eb-806a-6be58b13e138.png)](https://youtu.be/3_iIoMeMSJo "Bakery Shop App Demo")
 
 
